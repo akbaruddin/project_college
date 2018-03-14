@@ -35,3 +35,23 @@ After analysis the requirement we decide that we need to create following web pa
 - Results
 - FAQ
 - Contact Us
+
+---
+### Deployment Environment
+
+- **Database**
+	- SQlite
+
+- **Application Server**
+	- OS: Windows 7 or up, Linux, Mac OS X
+	- HDD: Min 4.5 GB
+	- RAM: Min 512 MB, Recommanded 2 GB
+	- Processor: Min Dual Core 1 Ghz
+
+- **Workstation**: The Online registration system web application will operate with following Web Browsers: Microsoft IE 11, Microsoft Edge, Firefox, Chrome, Safari, Opera, Vivaldi, Maxthon
+
+---
+### Developement Tools and Technologies
+- ASP.NET Core
+- SQlite
+- VS Code/Sublime Text Editor/Atom
