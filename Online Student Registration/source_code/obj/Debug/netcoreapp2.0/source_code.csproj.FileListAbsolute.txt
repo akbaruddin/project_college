@@ -1,0 +1,10 @@
+/Users/akbar/Downloads/project/project_college/source_code/bin/Debug/netcoreapp2.0/source_code.deps.json
+/Users/akbar/Downloads/project/project_college/source_code/bin/Debug/netcoreapp2.0/source_code.runtimeconfig.json
+/Users/akbar/Downloads/project/project_college/source_code/bin/Debug/netcoreapp2.0/source_code.runtimeconfig.dev.json
+/Users/akbar/Downloads/project/project_college/source_code/bin/Debug/netcoreapp2.0/source_code.dll
+/Users/akbar/Downloads/project/project_college/source_code/bin/Debug/netcoreapp2.0/source_code.pdb
+/Users/akbar/Downloads/project/project_college/source_code/obj/Debug/netcoreapp2.0/source_code.csproj.CoreCompileInputs.cache
+/Users/akbar/Downloads/project/project_college/source_code/obj/Debug/netcoreapp2.0/source_code.AssemblyInfoInputs.cache
+/Users/akbar/Downloads/project/project_college/source_code/obj/Debug/netcoreapp2.0/source_code.AssemblyInfo.cs
+/Users/akbar/Downloads/project/project_college/source_code/obj/Debug/netcoreapp2.0/source_code.dll
+/Users/akbar/Downloads/project/project_college/source_code/obj/Debug/netcoreapp2.0/source_code.pdb
