@@ -12542,11 +12542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akbar/Downloads/project/project_college/source_code/source_code.csproj",
+      "projectUniqueName": "/Users/akbar/Downloads/project/project_college/Online Student Registration/source_code/source_code.csproj",
       "projectName": "source_code",
-      "projectPath": "/Users/akbar/Downloads/project/project_college/source_code/source_code.csproj",
+      "projectPath": "/Users/akbar/Downloads/project/project_college/Online Student Registration/source_code/source_code.csproj",
       "packagesPath": "/Users/akbar/.nuget/packages/",
-      "outputPath": "/Users/akbar/Downloads/project/project_college/source_code/obj/",
+      "outputPath": "/Users/akbar/Downloads/project/project_college/Online Student Registration/source_code/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
