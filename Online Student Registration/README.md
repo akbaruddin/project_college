@@ -55,3 +55,8 @@ After analysis the requirement we decide that we need to create following web pa
 - ASP.NET Core
 - SQlite
 - VS Code/Sublime Text Editor/Atom
+
+---
+### Online Student Registration System Use Case
+
+![bla](assets/use_case.svg)
